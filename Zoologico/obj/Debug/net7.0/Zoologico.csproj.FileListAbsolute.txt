@@ -1,0 +1,15 @@
+C:\Thiago\.NET\Zoologico\Zoologico\bin\Debug\net7.0\Zoologico.exe
+C:\Thiago\.NET\Zoologico\Zoologico\bin\Debug\net7.0\Zoologico.deps.json
+C:\Thiago\.NET\Zoologico\Zoologico\bin\Debug\net7.0\Zoologico.runtimeconfig.json
+C:\Thiago\.NET\Zoologico\Zoologico\bin\Debug\net7.0\Zoologico.dll
+C:\Thiago\.NET\Zoologico\Zoologico\bin\Debug\net7.0\Zoologico.pdb
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\Zoologico.csproj.AssemblyReference.cache
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\Zoologico.AssemblyInfoInputs.cache
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\Zoologico.AssemblyInfo.cs
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\Zoologico.dll
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\refint\Zoologico.dll
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\Zoologico.pdb
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\Zoologico.genruntimeconfig.cache
+C:\Thiago\.NET\Zoologico\Zoologico\obj\Debug\net7.0\ref\Zoologico.dll
